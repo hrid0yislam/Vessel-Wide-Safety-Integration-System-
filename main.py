@@ -1,11 +1,4 @@
 #!/usr/bin/env python3
-"""
-Ship Safety System Integration Platform
-Main Application Entry Point
-
-Demonstrates ship safety system design, integration, and compliance monitoring
-for maritime engineering positions.
-"""
 
 import asyncio
 import logging
