@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Quick Integration Script
-Adds authentic maritime data to your existing Ship Safety System
-"""
-
 import asyncio
 import os
 from datetime import datetime
