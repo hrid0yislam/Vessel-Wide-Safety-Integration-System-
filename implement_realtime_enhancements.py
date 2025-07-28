@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-Implementation Script for Real-time Database Enhancements
-How to integrate authentic sensor data with your existing Ship Safety System
-"""
 
 import asyncio
 from loguru import logger
