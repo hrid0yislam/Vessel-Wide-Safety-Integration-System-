@@ -3,8 +3,6 @@
 PLC Communication Demo (No Real PLC Required)
 Demonstrates how Python and CODESYS PLC would communicate
 
-This script simulates the communication without needing a real PLC,
-so you can see how it would work in practice.
 """
 
 import asyncio
